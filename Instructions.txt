@@ -1,0 +1,10 @@
+Project folder- InventoryManagement, copy it in to the work place
+Database - SQL file inside the -> Database/Dump20240719 
+sql_file_Name - inventoryservletweb_items.sql
+Used Jar-inside the JAR folder
+The Used Logo - inLogo.JPG
+QR code can able to save anywhere 
+
+Login Credentials-
+user name - admin
+password - admin
